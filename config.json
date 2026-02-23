@@ -1,0 +1,87 @@
+{
+  "system": {
+    "name": "Plant PWR Investigation System",
+    "version": "1.0.0",
+    "created": "2026-02-23",
+    "description": "Sistema automatizado de investigación y monitoreo del competidor ilegal Plant PWR"
+  },
+  "directories": {
+    "root": "/root/.openclaw/workspace/plant-pwr-investigation",
+    "domains": "/root/.openclaw/workspace/plant-pwr-investigation/dominios",
+    "evidence": "/root/.openclaw/workspace/plant-pwr-investigation/evidencia",
+    "legal": "/root/.openclaw/workspace/plant-pwr-investigation/denuncias",
+    "analysis": "/root/.openclaw/workspace/plant-pwr-investigation/analisis",
+    "scripts": "/root/.openclaw/workspace/plant-pwr-investigation/scripts",
+    "monitoring": "/root/.openclaw/workspace/plant-pwr-investigation/monitoreo"
+  },
+  "tools": {
+    "whoogle": {
+      "enabled": true,
+      "url": "http://localhost:8080",
+      "daily_search": true,
+      "search_terms": [
+        "Plant PWR aceite mascotas",
+        "Plant PWR Colombia",
+        "Zelvatic Pets",
+        "cannabis veterinario Colombia"
+      ]
+    },
+    "google_drive": {
+      "enabled": true,
+      "service_account": "/root/.openclaw/google-service-account.json",
+      "folder_id": "1KPm1Lrct9HIkPzwWYnIC0n5O6O5XquKA",
+      "sync_evidence": true
+    },
+    "monitoring": {
+      "daily_check": true,
+      "alert_on_change": true,
+      "check_interval_hours": 24
+    }
+  },
+  "targets": {
+    "primary_competitor": {
+      "name": "Plant PWR (Zelvatic Pets)",
+      "owner": "Julian Zuluaga",
+      "location": "Medellín, Colombia",
+      "products": ["Aceite cannabis para mascotas"],
+      "prices_range": "94.900 - 189.900 COP"
+    },
+    "critical_domains": 4,
+    "total_domains_monitored": 33,
+    "investigation_status": "ACTIVE"
+  },
+  "legal": {
+    "authorities": ["INVIMA", "ICA", "SIC", "Policía"],
+    "alert_number": "ICA 043/2024",
+    "next_steps": [
+      "Ampliar medida cautelar",
+      "Denunciar nuevos sitios encontrados",
+      "Notificar a plataformas (Shopify, Facebook)"
+    ]
+  },
+  "automation": {
+    "scripts": {
+      "daily_monitor": "scripts/monitor_diario.py",
+      "whoogle_search": "scripts/whoogle_search.py",
+      "domain_checker": "scripts/check_new_domains.py"
+    },
+    "schedule": {
+      "daily": "09:00",
+      "weekly": "Monday 10:00",
+      "monthly": "First day of month"
+    }
+  },
+  "contacts": {
+    "client": "Carlos Calderon - Klean Vet",
+    "investigator": "Charlie (AI Assistant)",
+    "email": "carlos@kleanvet.co",
+    "business": "Cannabian Pharma SAS"
+  },
+  "status": {
+    "last_updated": "2026-02-23",
+    "active_investigation": true,
+    "evidence_collected": true,
+    "legal_actions_pending": true,
+    "monitoring_active": true
+  }
+}

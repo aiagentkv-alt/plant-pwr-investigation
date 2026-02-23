@@ -1,0 +1,266 @@
+[
+  {
+    "date": "2026-02-23T03:49:19.691836",
+    "total_domains": 8,
+    "active": 0,
+    "inactive": 8,
+    "results": [
+      {
+        "domain": {
+          "domain": "ispetshope.com",
+          "url": "https://ispetshope.com/producto/gotas-plant-pwr/",
+          "status": "ACTIVE",
+          "priority": "CRITICAL",
+          "last_checked": "2026-02-23",
+          "notes": "Vendiendo activamente Plant PWR, precios: 104.900-169.900 COP"
+        },
+        "status": "INACTIVE",
+        "status_code": null,
+        "final_url": null,
+        "checked_at": "2026-02-23T03:49:19.690419"
+      },
+      {
+        "domain": {
+          "domain": "seedexpress.com.co",
+          "url": "https://seedexpress.com.co/plant-pwr/",
+          "status": "ACTIVE",
+          "priority": "CRITICAL",
+          "last_checked": "2026-02-23",
+          "notes": "Nuevo hallazgo, vendiendo Plant PWR"
+        },
+        "status": "INACTIVE",
+        "status_code": null,
+        "final_url": null,
+        "checked_at": "2026-02-23T03:49:19.690515"
+      },
+      {
+        "domain": {
+          "domain": "antojitoscol.com",
+          "url": "https://antojitoscol.com/gotas-plant-pwr/",
+          "status": "ACTIVE",
+          "priority": "CRITICAL",
+          "last_checked": "2026-02-23",
+          "notes": "Nuevo hallazgo, precios: 104.900-139.900 COP"
+        },
+        "status": "INACTIVE",
+        "status_code": null,
+        "final_url": null,
+        "checked_at": "2026-02-23T03:49:19.690574"
+      },
+      {
+        "domain": {
+          "domain": "merchashop.com.co",
+          "url": "https://merchashop.com.co/plant-pwr/",
+          "status": "ACTIVE",
+          "priority": "CRITICAL",
+          "last_checked": "2026-02-23",
+          "notes": "Precios: 94.900-189.900 COP"
+        },
+        "status": "INACTIVE",
+        "status_code": null,
+        "final_url": null,
+        "checked_at": "2026-02-23T03:49:19.690616"
+      },
+      {
+        "domain": {
+          "domain": "facebook.com",
+          "status": "ACTIVE",
+          "priority": "HIGH",
+          "notes": "Buscar grupos y marketplace"
+        },
+        "status": "INACTIVE",
+        "status_code": null,
+        "final_url": null,
+        "checked_at": "2026-02-23T03:49:19.690667"
+      },
+      {
+        "domain": {
+          "domain": "instagram.com",
+          "status": "ACTIVE",
+          "priority": "HIGH",
+          "notes": "@plantpwroficial y otros perfiles"
+        },
+        "status": "INACTIVE",
+        "status_code": null,
+        "final_url": null,
+        "checked_at": "2026-02-23T03:49:19.691681"
+      },
+      {
+        "domain": {
+          "domain": "mercadolibre.com.co",
+          "status": "ACTIVE",
+          "priority": "HIGH",
+          "notes": "Marketplace potencial"
+        },
+        "status": "INACTIVE",
+        "status_code": null,
+        "final_url": null,
+        "checked_at": "2026-02-23T03:49:19.691775"
+      },
+      {
+        "domain": {
+          "domain": "olx.com.co",
+          "status": "ACTIVE",
+          "priority": "HIGH",
+          "notes": "Marketplace potencial"
+        },
+        "status": "INACTIVE",
+        "status_code": null,
+        "final_url": null,
+        "checked_at": "2026-02-23T03:49:19.691831"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-23T03:50:10.129488",
+    "total_domains": 8,
+    "active": 7,
+    "inactive": 1,
+    "results": [
+      {
+        "domain": "ispetshope.com",
+        "status": "ACTIVE",
+        "status_code": 200,
+        "final_url": "https://ispetshope.com/producto/gotas-plant-pwr/",
+        "tested_url": "https://ispetshope.com/producto/gotas-plant-pwr/",
+        "checked_at": "2026-02-23T03:50:05.646817",
+        "notes": "Vendiendo activamente Plant PWR, precios: 104.900-169.900 COP"
+      },
+      {
+        "domain": "seedexpress.com.co",
+        "status": "ACTIVE",
+        "status_code": 200,
+        "final_url": "https://seedexpress.com.co/plant-pwr/",
+        "tested_url": "https://seedexpress.com.co/plant-pwr/",
+        "checked_at": "2026-02-23T03:50:06.372062",
+        "notes": "Nuevo hallazgo, vendiendo Plant PWR"
+      },
+      {
+        "domain": "antojitoscol.com",
+        "status": "ACTIVE",
+        "status_code": 200,
+        "final_url": "https://antojitoscol.com/gotas-plant-pwr/",
+        "tested_url": "https://antojitoscol.com/gotas-plant-pwr/",
+        "checked_at": "2026-02-23T03:50:07.880655",
+        "notes": "Nuevo hallazgo, precios: 104.900-139.900 COP"
+      },
+      {
+        "domain": "merchashop.com.co",
+        "status": "ACTIVE",
+        "status_code": 200,
+        "final_url": "https://merchashop.com.co/plant-pwr/",
+        "tested_url": "https://merchashop.com.co/plant-pwr/",
+        "checked_at": "2026-02-23T03:50:08.435484",
+        "notes": "Precios: 94.900-189.900 COP"
+      },
+      {
+        "domain": "facebook.com",
+        "status": "ACTIVE",
+        "status_code": 200,
+        "final_url": "https://www.facebook.com/",
+        "tested_url": "https://facebook.com",
+        "checked_at": "2026-02-23T03:50:08.937178",
+        "notes": "Buscar grupos y marketplace"
+      },
+      {
+        "domain": "instagram.com",
+        "status": "ACTIVE",
+        "status_code": 200,
+        "final_url": "https://www.instagram.com/",
+        "tested_url": "https://instagram.com",
+        "checked_at": "2026-02-23T03:50:09.450299",
+        "notes": "@plantpwroficial y otros perfiles"
+      },
+      {
+        "domain": "mercadolibre.com.co",
+        "status": "ACTIVE",
+        "status_code": 200,
+        "final_url": "https://www.mercadolibre.com.co/",
+        "tested_url": "https://mercadolibre.com.co",
+        "checked_at": "2026-02-23T03:50:09.884599",
+        "notes": "Marketplace potencial"
+      },
+      {
+        "domain": "olx.com.co",
+        "status": "INACTIVE",
+        "status_code": null,
+        "final_url": null,
+        "tested_url": null,
+        "checked_at": "2026-02-23T03:50:10.129465",
+        "notes": "Marketplace potencial - Todos los intentos fallaron"
+      }
+    ]
+  },
+  {
+    "date": "2026-02-23T03:50:57.369227",
+    "total": 8,
+    "active": 7,
+    "inactive": 1,
+    "results": [
+      {
+        "domain": "ispetshope.com",
+        "status": "ACTIVE",
+        "status_code": 200,
+        "final_url": "https://ispetshope.com/producto/gotas-plant-pwr/",
+        "checked_at": "2026-02-23T03:50:53.217275",
+        "priority": "CRITICAL"
+      },
+      {
+        "domain": "seedexpress.com.co",
+        "status": "ACTIVE",
+        "status_code": 200,
+        "final_url": "https://seedexpress.com.co/plant-pwr/",
+        "checked_at": "2026-02-23T03:50:53.798229",
+        "priority": "CRITICAL"
+      },
+      {
+        "domain": "antojitoscol.com",
+        "status": "ACTIVE",
+        "status_code": 200,
+        "final_url": "https://antojitoscol.com/gotas-plant-pwr/",
+        "checked_at": "2026-02-23T03:50:55.407755",
+        "priority": "CRITICAL"
+      },
+      {
+        "domain": "merchashop.com.co",
+        "status": "ACTIVE",
+        "status_code": 200,
+        "final_url": "https://merchashop.com.co/plant-pwr/",
+        "checked_at": "2026-02-23T03:50:55.936918",
+        "priority": "CRITICAL"
+      },
+      {
+        "domain": "facebook.com",
+        "status": "ACTIVE",
+        "status_code": 200,
+        "final_url": "https://www.facebook.com/",
+        "checked_at": "2026-02-23T03:50:56.407679",
+        "priority": "HIGH"
+      },
+      {
+        "domain": "instagram.com",
+        "status": "ACTIVE",
+        "status_code": 200,
+        "final_url": "https://www.instagram.com/",
+        "checked_at": "2026-02-23T03:50:56.978330",
+        "priority": "HIGH"
+      },
+      {
+        "domain": "mercadolibre.com.co",
+        "status": "ACTIVE",
+        "status_code": 200,
+        "final_url": "https://www.mercadolibre.com.co/",
+        "checked_at": "2026-02-23T03:50:57.360762",
+        "priority": "HIGH"
+      },
+      {
+        "domain": "olx.com.co",
+        "status": "INACTIVE",
+        "status_code": null,
+        "final_url": null,
+        "checked_at": "2026-02-23T03:50:57.369215",
+        "priority": "HIGH"
+      }
+    ]
+  }
+]

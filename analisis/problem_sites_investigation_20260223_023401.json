@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "generated_at": "2026-02-23T02:34:01.760362",
+    "total_sites": 5
+  },
+  "results": [
+    {
+      "domain": "aerashop.co",
+      "original_url": "https://aerashop.co/products/gotas-plant-pwr",
+      "error_type": "ConnectionError",
+      "status": "ACCESIBLE_ALTERNATIVO",
+      "accessible": true,
+      "alternative_url": "http://aerashop.co/",
+      "ip_address": "23.227.38.32",
+      "investigated_at": "2026-02-23T02:33:48.756814"
+    },
+    {
+      "domain": "tolitrend.com.co",
+      "original_url": "https://tolitrend.com.co/products/gotas-plant-pwr",
+      "error_type": "HTTP 402",
+      "status": "ACCESIBLE_ALTERNATIVO",
+      "accessible": true,
+      "alternative_url": "https://tolitrend.com.co/",
+      "ip_address": "23.227.38.65",
+      "investigated_at": "2026-02-23T02:33:54.780716"
+    },
+    {
+      "domain": "vidsalstore.com",
+      "original_url": "https://vidsalstore.com/gotas-para-perros/",
+      "error_type": "HTTP 403",
+      "status": "ACCESIBLE_ALTERNATIVO",
+      "accessible": true,
+      "alternative_url": "http://vidsalstore.com/",
+      "ip_address": "34.174.95.242",
+      "investigated_at": "2026-02-23T02:33:55.651573"
+    },
+    {
+      "domain": "olaverdestore.com",
+      "original_url": "https://olaverdestore.com/",
+      "error_type": "ConnectionError",
+      "status": "ACCESIBLE_ALTERNATIVO",
+      "accessible": true,
+      "alternative_url": "https://olaverdestore.com/",
+      "ip_address": "147.79.120.129",
+      "investigated_at": "2026-02-23T02:33:56.623889"
+    },
+    {
+      "domain": "labodeguitacol.com",
+      "original_url": "https://labodeguitacol.com/products/esfera-astronautas",
+      "error_type": "Producto extraño",
+      "status": "ACCESIBLE_ALTERNATIVO",
+      "accessible": true,
+      "alternative_url": "https://labodeguitacol.com/",
+      "ip_address": "23.227.38.32",
+      "investigated_at": "2026-02-23T02:34:01.760057"
+    }
+  ]
+}

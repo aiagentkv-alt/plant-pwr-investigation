@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "test": true,
+    "generated_at": "2026-02-23T04:07:46.695948",
+    "system": "Plant PWR Investigation",
+    "version": "1.0"
+  },
+  "test_results": [
+    {
+      "title": "Test Result 1",
+      "url": "https://example.com/test1",
+      "domain": "example.com",
+      "snippet": "This is a test result for the daily search system.",
+      "found_at": "2026-02-23T04:07:46.695952"
+    },
+    {
+      "title": "Test Result 2",
+      "url": "https://test.com/plant-pwr",
+      "domain": "test.com",
+      "snippet": "Another test result showing the system works.",
+      "found_at": "2026-02-23T04:07:46.695953"
+    }
+  ]
+}

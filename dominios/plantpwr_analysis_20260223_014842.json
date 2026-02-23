@@ -1,0 +1,642 @@
+{
+  "metadata": {
+    "generated_at": "2026-02-23T01:48:42.024365",
+    "search_terms": [
+      "Plant PWR comprar Colombia",
+      "Plant PWR aceite mascotas",
+      "Plant PWR gotas veterinarias",
+      "Plant PWR precio",
+      "Plant PWR cannabis mascotas",
+      "Zelvatic Pets comprar",
+      "Zelvatic Pets aceite",
+      "Zelvatic Pets cannabis",
+      "aceite cannabis mascotas comprar",
+      "cannabis veterinario Colombia",
+      "gotas cannabis perros gatos",
+      "\"Plant PWR\" sitio web",
+      "\"Plant PWR\" tienda online",
+      "\"Plant PWR\" mercado libre",
+      "\"Plant PWR\" facebook marketplace",
+      "Plant PWR Medellín",
+      "Plant PWR Bogotá",
+      "Plant PWR Cali",
+      "Plant PWR venta"
+    ],
+    "total_domains": 26,
+    "active_domains": 26
+  },
+  "domains": {
+    "petshop": {
+      "domain": "petshop",
+      "status": "INACTIVO",
+      "final_url": null,
+      "status_code": null,
+      "checked_at": "2026-02-23T01:48:38.543110"
+    },
+    "digital": {
+      "domain": "digital",
+      "status": "INACTIVO",
+      "final_url": null,
+      "status_code": null,
+      "checked_at": "2026-02-23T01:48:38.543417"
+    },
+    "mascotas": {
+      "domain": "mascotas",
+      "status": "INACTIVO",
+      "final_url": null,
+      "status_code": null,
+      "checked_at": "2026-02-23T01:48:38.544405"
+    },
+    "online": {
+      "domain": "online",
+      "status": "INACTIVO",
+      "final_url": null,
+      "status_code": null,
+      "checked_at": "2026-02-23T01:48:38.544372"
+    },
+    "productos": {
+      "domain": "productos",
+      "status": "INACTIVO",
+      "final_url": null,
+      "status_code": null,
+      "checked_at": "2026-02-23T01:48:38.545287"
+    },
+    "animales": {
+      "domain": "animales",
+      "status": "INACTIVO",
+      "final_url": null,
+      "status_code": null,
+      "checked_at": "2026-02-23T01:48:38.546021"
+    },
+    "veterinaria": {
+      "domain": "veterinaria",
+      "status": "INACTIVO",
+      "final_url": null,
+      "status_code": null,
+      "checked_at": "2026-02-23T01:48:38.546426"
+    },
+    "tienda": {
+      "domain": "tienda",
+      "status": "INACTIVO",
+      "final_url": null,
+      "status_code": null,
+      "checked_at": "2026-02-23T01:48:38.547087"
+    },
+    "olx.com.co": {
+      "domain": "olx.com.co",
+      "status": "INACTIVO",
+      "final_url": null,
+      "status_code": null,
+      "checked_at": "2026-02-23T01:48:38.561211"
+    },
+    "tiendademascotas": {
+      "domain": "tiendademascotas",
+      "status": "INACTIVO",
+      "final_url": null,
+      "status_code": null,
+      "checked_at": "2026-02-23T01:48:38.561773"
+    },
+    "compras": {
+      "domain": "compras",
+      "status": "INACTIVO",
+      "final_url": null,
+      "status_code": null,
+      "checked_at": "2026-02-23T01:48:38.562283"
+    },
+    "petstore": {
+      "domain": "petstore",
+      "status": "INACTIVO",
+      "final_url": null,
+      "status_code": null,
+      "checked_at": "2026-02-23T01:48:38.563112"
+    },
+    "marketplace": {
+      "domain": "marketplace",
+      "status": "INACTIVO",
+      "final_url": null,
+      "status_code": null,
+      "checked_at": "2026-02-23T01:48:38.563482"
+    },
+    "falabella.com.co": {
+      "domain": "falabella.com.co",
+      "status": "ACTIVO_HTTPS",
+      "final_url": "https://www.falabella.com.co/falabella-co",
+      "status_code": 200,
+      "checked_at": "2026-02-23T01:48:38.815847"
+    },
+    "ventas": {
+      "domain": "ventas",
+      "status": "INACTIVO",
+      "final_url": null,
+      "status_code": null,
+      "checked_at": "2026-02-23T01:48:38.818373"
+    },
+    "shop": {
+      "domain": "shop",
+      "status": "INACTIVO",
+      "final_url": null,
+      "status_code": null,
+      "checked_at": "2026-02-23T01:48:38.818998"
+    },
+    "exito.com": {
+      "domain": "exito.com",
+      "status": "ACTIVO_HTTPS",
+      "final_url": "https://www.exito.com/",
+      "status_code": 200,
+      "checked_at": "2026-02-23T01:48:38.819981"
+    },
+    "linio.com.co": {
+      "domain": "linio.com.co",
+      "status": "INACTIVO",
+      "final_url": null,
+      "status_code": null,
+      "checked_at": "2026-02-23T01:48:38.843461"
+    },
+    "telegram.org": {
+      "domain": "telegram.org",
+      "status": "ACTIVO_HTTPS",
+      "final_url": "https://telegram.org/",
+      "status_code": 200,
+      "checked_at": "2026-02-23T01:48:38.845978"
+    },
+    "mercadolibre.com.co": {
+      "domain": "mercadolibre.com.co",
+      "status": "ACTIVO_HTTPS",
+      "final_url": "https://www.mercadolibre.com.co/",
+      "status_code": 200,
+      "checked_at": "2026-02-23T01:48:39.026697"
+    },
+    "facebook.com": {
+      "domain": "facebook.com",
+      "status": "ACTIVO_HTTPS",
+      "final_url": "https://www.facebook.com/",
+      "status_code": 200,
+      "checked_at": "2026-02-23T01:48:39.099597"
+    },
+    "instagram.com": {
+      "domain": "instagram.com",
+      "status": "ACTIVO_HTTPS",
+      "final_url": "https://www.instagram.com/",
+      "status_code": 200,
+      "checked_at": "2026-02-23T01:48:39.120761"
+    },
+    "dafiti.com.co": {
+      "domain": "dafiti.com.co",
+      "status": "ACTIVO_HTTPS",
+      "final_url": "https://www.dafiti.com.co/",
+      "status_code": 200,
+      "checked_at": "2026-02-23T01:48:39.143992"
+    },
+    "whatsapp.com": {
+      "domain": "whatsapp.com",
+      "status": "ACTIVO_HTTPS",
+      "final_url": "https://www.whatsapp.com/",
+      "status_code": 200,
+      "checked_at": "2026-02-23T01:48:39.156112"
+    },
+    "merchashop.com.co": {
+      "domain": "merchashop.com.co",
+      "status": "ACTIVO_HTTPS",
+      "final_url": "https://merchashop.com.co/",
+      "status_code": 200,
+      "checked_at": "2026-02-23T01:48:39.329475"
+    },
+    "ispetshope.com": {
+      "domain": "ispetshope.com",
+      "status": "ACTIVO_HTTPS",
+      "final_url": "https://ispetshope.com/producto/gotas-plant-pwr/",
+      "status_code": 200,
+      "checked_at": "2026-02-23T01:48:42.019703"
+    }
+  },
+  "categories": {
+    "marketplaces": [
+      "olx.com.co",
+      "marketplace",
+      "linio.com.co",
+      "mercadolibre.com.co"
+    ],
+    "social_media": [
+      "telegram.org",
+      "facebook.com",
+      "instagram.com",
+      "whatsapp.com"
+    ],
+    "ecommerce": [
+      "tienda",
+      "compras",
+      "ventas",
+      "shop",
+      "merchashop.com.co"
+    ],
+    "petshops": [
+      "petshop",
+      "mascotas",
+      "animales",
+      "veterinaria",
+      "tiendademascotas",
+      "petstore",
+      "ispetshope.com"
+    ],
+    "suspected_sites": [
+      "falabella.com.co",
+      "exito.com",
+      "dafiti.com.co"
+    ],
+    "inactive": [
+      "digital",
+      "online",
+      "productos"
+    ]
+  },
+  "todo_list": [
+    {
+      "domain": "petshop",
+      "status": "INACTIVO",
+      "url": "https://petshop",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "📧 Notificar al hosting provider",
+        "⚖️ Preparar denuncia a autoridades",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "digital",
+      "status": "INACTIVO",
+      "url": "https://digital",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "📧 Notificar al hosting provider",
+        "⚖️ Preparar denuncia a autoridades",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "mascotas",
+      "status": "INACTIVO",
+      "url": "https://mascotas",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "📧 Notificar al hosting provider",
+        "⚖️ Preparar denuncia a autoridades",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "online",
+      "status": "INACTIVO",
+      "url": "https://online",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "📧 Notificar al hosting provider",
+        "⚖️ Preparar denuncia a autoridades",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "productos",
+      "status": "INACTIVO",
+      "url": "https://productos",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "📧 Notificar al hosting provider",
+        "⚖️ Preparar denuncia a autoridades",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "animales",
+      "status": "INACTIVO",
+      "url": "https://animales",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "📧 Notificar al hosting provider",
+        "⚖️ Preparar denuncia a autoridades",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "veterinaria",
+      "status": "INACTIVO",
+      "url": "https://veterinaria",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "📧 Notificar al hosting provider",
+        "⚖️ Preparar denuncia a autoridades",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "tienda",
+      "status": "INACTIVO",
+      "url": "https://tienda",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "📧 Notificar al hosting provider",
+        "⚖️ Preparar denuncia a autoridades",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "olx.com.co",
+      "status": "INACTIVO",
+      "url": "https://olx.com.co",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "📧 Notificar al hosting provider",
+        "⚖️ Preparar denuncia a autoridades",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "tiendademascotas",
+      "status": "INACTIVO",
+      "url": "https://tiendademascotas",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "📧 Notificar al hosting provider",
+        "⚖️ Preparar denuncia a autoridades",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "compras",
+      "status": "INACTIVO",
+      "url": "https://compras",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "📧 Notificar al hosting provider",
+        "⚖️ Preparar denuncia a autoridades",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "petstore",
+      "status": "INACTIVO",
+      "url": "https://petstore",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "📧 Notificar al hosting provider",
+        "⚖️ Preparar denuncia a autoridades",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "marketplace",
+      "status": "INACTIVO",
+      "url": "https://marketplace",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "📧 Notificar al hosting provider",
+        "⚖️ Preparar denuncia a autoridades",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "falabella.com.co",
+      "status": "ACTIVO_HTTPS",
+      "url": "https://www.falabella.com.co/falabella-co",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "📧 Notificar al hosting provider",
+        "⚖️ Preparar denuncia a autoridades",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "ventas",
+      "status": "INACTIVO",
+      "url": "https://ventas",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "📧 Notificar al hosting provider",
+        "⚖️ Preparar denuncia a autoridades",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "shop",
+      "status": "INACTIVO",
+      "url": "https://shop",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "📧 Notificar al hosting provider",
+        "⚖️ Preparar denuncia a autoridades",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "exito.com",
+      "status": "ACTIVO_HTTPS",
+      "url": "https://www.exito.com/",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "📧 Notificar al hosting provider",
+        "⚖️ Preparar denuncia a autoridades",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "linio.com.co",
+      "status": "INACTIVO",
+      "url": "https://linio.com.co",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "📧 Notificar al hosting provider",
+        "⚖️ Preparar denuncia a autoridades",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "telegram.org",
+      "status": "ACTIVO_HTTPS",
+      "url": "https://telegram.org/",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "📧 Notificar al hosting provider",
+        "⚖️ Preparar denuncia a autoridades",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "mercadolibre.com.co",
+      "status": "ACTIVO_HTTPS",
+      "url": "https://www.mercadolibre.com.co/",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "📧 Notificar al hosting provider",
+        "⚖️ Preparar denuncia a autoridades",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "facebook.com",
+      "status": "ACTIVO_HTTPS",
+      "url": "https://www.facebook.com/",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "🚨 Reportar a la plataforma (TOS violation)",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "instagram.com",
+      "status": "ACTIVO_HTTPS",
+      "url": "https://www.instagram.com/",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "🚨 Reportar a la plataforma (TOS violation)",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "dafiti.com.co",
+      "status": "ACTIVO_HTTPS",
+      "url": "https://www.dafiti.com.co/",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "📧 Notificar al hosting provider",
+        "⚖️ Preparar denuncia a autoridades",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "whatsapp.com",
+      "status": "ACTIVO_HTTPS",
+      "url": "https://www.whatsapp.com/",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "📧 Notificar al hosting provider",
+        "⚖️ Preparar denuncia a autoridades",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "merchashop.com.co",
+      "status": "ACTIVO_HTTPS",
+      "url": "https://merchashop.com.co/",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "📧 Notificar al hosting provider",
+        "⚖️ Preparar denuncia a autoridades",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    },
+    {
+      "domain": "ispetshope.com",
+      "status": "ACTIVO_HTTPS",
+      "url": "https://ispetshope.com/producto/gotas-plant-pwr/",
+      "todos": [
+        "📸 Capturar pantallazos como evidencia",
+        "🔍 Verificar si vende Plant PWR",
+        "💰 Documentar precios y ofertas",
+        "📧 Notificar al hosting provider",
+        "⚖️ Preparar denuncia a autoridades",
+        "🌐 Verificar WHOIS información",
+        "📋 Agregar a base de datos de evidencia"
+      ],
+      "priority": "HIGH"
+    }
+  ]
+}

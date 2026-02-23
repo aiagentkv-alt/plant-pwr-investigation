@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "created": "2026-02-23",
+    "last_updated": "2026-02-23",
+    "description": "Dominios críticos de Plant PWR para monitoreo diario"
+  },
+  "critical": [
+    {
+      "domain": "ispetshope.com",
+      "url": "https://ispetshope.com/producto/gotas-plant-pwr/",
+      "status": "ACTIVE",
+      "priority": "CRITICAL",
+      "last_checked": "2026-02-23",
+      "notes": "Vendiendo activamente Plant PWR, precios: 104.900-169.900 COP"
+    },
+    {
+      "domain": "seedexpress.com.co",
+      "url": "https://seedexpress.com.co/plant-pwr/",
+      "status": "ACTIVE",
+      "priority": "CRITICAL",
+      "last_checked": "2026-02-23",
+      "notes": "Nuevo hallazgo, vendiendo Plant PWR"
+    },
+    {
+      "domain": "antojitoscol.com",
+      "url": "https://antojitoscol.com/gotas-plant-pwr/",
+      "status": "ACTIVE",
+      "priority": "CRITICAL",
+      "last_checked": "2026-02-23",
+      "notes": "Nuevo hallazgo, precios: 104.900-139.900 COP"
+    },
+    {
+      "domain": "merchashop.com.co",
+      "url": "https://merchashop.com.co/plant-pwr/",
+      "status": "ACTIVE",
+      "priority": "CRITICAL",
+      "last_checked": "2026-02-23",
+      "notes": "Precios: 94.900-189.900 COP"
+    }
+  ],
+  "high_priority": [
+    {
+      "domain": "facebook.com",
+      "status": "ACTIVE",
+      "priority": "HIGH",
+      "notes": "Buscar grupos y marketplace"
+    },
+    {
+      "domain": "instagram.com",
+      "status": "ACTIVE",
+      "priority": "HIGH",
+      "notes": "@plantpwroficial y otros perfiles"
+    },
+    {
+      "domain": "mercadolibre.com.co",
+      "status": "ACTIVE",
+      "priority": "HIGH",
+      "notes": "Marketplace potencial"
+    },
+    {
+      "domain": "olx.com.co",
+      "status": "ACTIVE",
+      "priority": "HIGH",
+      "notes": "Marketplace potencial"
+    }
+  ],
+  "to_investigate": [
+    {
+      "domain": "aerashop.co",
+      "status": "PROBLEM",
+      "priority": "MEDIUM",
+      "notes": "Connection error, posiblemente vendía"
+    },
+    {
+      "domain": "tolitrend.com.co",
+      "status": "PROBLEM",
+      "priority": "MEDIUM",
+      "notes": "HTTP 402 error"
+    },
+    {
+      "domain": "vidsalstore.com",
+      "status": "PROBLEM",
+      "priority": "MEDIUM",
+      "notes": "HTTP 403 error"
+    },
+    {
+      "domain": "olaverdestore.com",
+      "status": "ACTIVE",
+      "priority": "LOW",
+      "notes": "Sitio general, verificar"
+    },
+    {
+      "domain": "labodeguitacol.com",
+      "status": "ACTIVE",
+      "priority": "LOW",
+      "notes": "Vende múltiples productos, incluyendo Plant PWR"
+    }
+  ],
+  "competitor_domains": [
+    {
+      "domain": "plantpwr.com.co",
+      "status": "PARKED",
+      "priority": "MONITOR",
+      "notes": "Dominio aparcado del competidor"
+    },
+    {
+      "domain": "plantpwr.co",
+      "status": "REDIRECT",
+      "priority": "MONITOR",
+      "notes": "Redirección 301"
+    },
+    {
+      "domain": "julianzuluaga.com",
+      "status": "ACTIVE",
+      "priority": "MONITOR",
+      "notes": "Sitio personal del dueño (ingeniero)"
+    },
+    {
+      "domain": "zelvatic.com",
+      "status": "INACTIVE",
+      "priority": "MONITOR",
+      "notes": "Nombre anterior de Plant PWR"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+# DOMINIOS ENCONTRADOS - PLANT PWR
+# Generado: 2026-02-23T01:48:42.024307
+# Total: 26 dominios
+
+animales - INACTIVO
+compras - INACTIVO
+dafiti.com.co - ACTIVO_HTTPS
+digital - INACTIVO
+exito.com - ACTIVO_HTTPS
+facebook.com - ACTIVO_HTTPS
+falabella.com.co - ACTIVO_HTTPS
+instagram.com - ACTIVO_HTTPS
+ispetshope.com - ACTIVO_HTTPS
+linio.com.co - INACTIVO
+marketplace - INACTIVO
+mascotas - INACTIVO
+mercadolibre.com.co - ACTIVO_HTTPS
+merchashop.com.co - ACTIVO_HTTPS
+olx.com.co - INACTIVO
+online - INACTIVO
+petshop - INACTIVO
+petstore - INACTIVO
+productos - INACTIVO
+shop - INACTIVO
+telegram.org - ACTIVO_HTTPS
+tienda - INACTIVO
+tiendademascotas - INACTIVO
+ventas - INACTIVO
+veterinaria - INACTIVO
+whatsapp.com - ACTIVO_HTTPS
+
+# NUEVOS DOMINIOS AGREGADOS: 2026-02-23T01:59:20.630010
+seedexpress.com.co - NUEVO_VERIFICADO
+vidsalstore.com - NUEVO_VERIFICADO
+olaverdestore.com - NUEVO_VERIFICADO
+aerashop.co - NUEVO_VERIFICADO
+tolitrend.com.co - NUEVO_VERIFICADO
+antojitoscol.com - NUEVO_VERIFICADO
+labodeguitacol.com - NUEVO_VERIFICADO
